@@ -1,7 +1,3 @@
-Para elaborar un README claro y conciso para tu proyecto, primero necesitaremos identificar el propósito del proyecto y proporcionar una descripción general de lo que hace. A continuación, incluiré un README básico para tu proyecto:
-
----
-
 # Gestión de Libros
 
 Este proyecto es una aplicación de gestión de libros desarrollada en Java utilizando el framework Spring. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos de libros, como agregar nuevos libros, modificar los existentes y eliminar los que ya no son necesarios.
